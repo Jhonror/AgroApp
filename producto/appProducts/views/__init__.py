@@ -1,0 +1,4 @@
+from .detailProductView import DetailProductView
+from .partialUdpateProductView import PartialUdpateProductView
+from .productCreateView import ProductCreateView
+from .udpateProductView import UdpateProductView
